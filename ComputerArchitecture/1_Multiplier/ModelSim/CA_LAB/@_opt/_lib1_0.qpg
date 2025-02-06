@@ -1,0 +1,299 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_2020.4/examples
+T_opt
+!s110 1708634499
+Ve^o9_KH]BmW]8=F3eZ:l51
+Z1 04 19 4 work multiplier_b_nb__tb fast 0
+=1-f057a6ed4ea5-65d7b183-131-dfc
+Z2 o-quiet -auto_acc_if_foreign -work CA_LAB
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;2020.4;71
+T_opt1
+!s110 1708634430
+VRWHS5:g738>;`1_icU0cH2
+R1
+=1-f057a6ed4ea5-65d7b13e-11f-1b0
+o-quiet -auto_acc_if_foreign -work CA_LAB +acc
+R3
+n@_opt1
+R4
+R0
+T_opt2
+!s110 1708632049
+ViD`MCohaXJY0IdV;Bcjm02
+04 20 4 work multiplier_booth__tb fast 0
+=1-f057a6ed4ea5-65d7a7f1-12a-1260
+R2
+R3
+n@_opt2
+R4
+R0
+vmultiplier1
+Z5 !s110 1708634493
+!i10b 1
+!s100 z3X;;i_k>PESI9SO@[0CK3
+Z6 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IOaB2MzQiBGk]B;1YkJoR@2
+Z7 dC:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/ModelSim
+w1708081170
+8C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier1.v
+FC:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier1.v
+!i122 308
+L0 2 51
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z10 !s108 1708634493.000000
+!s107 C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier1.v|
+!s90 -reportprogress|300|-work|CA_LAB|-vopt|-stats=none|C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier1.v|
+!i113 0
+Z11 o-work CA_LAB -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vmultiplier1__tb
+R5
+!i10b 1
+!s100 DI>gP16P`[a88jKfFMR<^2
+R6
+IOXcSfR=1a?HB6HGXk2@OO2
+R7
+w1708077021
+8C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier1__tb.v
+FC:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier1__tb.v
+!i122 309
+Z12 L0 3 71
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier1__tb.v|
+!s90 -reportprogress|300|-work|CA_LAB|-vopt|-stats=none|C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier1__tb.v|
+!i113 0
+R11
+R3
+vmultiplier2
+R5
+!i10b 1
+!s100 S^`dk5KnJSSX[B]HeS3@e1
+R6
+IfgW93;;3SfOaJiVb:1_:91
+R7
+w1708464936
+8C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier2.v
+FC:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier2.v
+!i122 310
+L0 2 49
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier2.v|
+!s90 -reportprogress|300|-work|CA_LAB|-vopt|-stats=none|C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier2.v|
+!i113 0
+R11
+R3
+vmultiplier2__tb
+R5
+!i10b 1
+!s100 =BL90ceTQ`5J00KmF[0jf1
+R6
+I@^AN8:^F3<bLkcMh^A_bl1
+R7
+w1708334608
+8C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier2__tb.v
+FC:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier2__tb.v
+!i122 311
+R12
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier2__tb.v|
+!s90 -reportprogress|300|-work|CA_LAB|-vopt|-stats=none|C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier2__tb.v|
+!i113 0
+R11
+R3
+vmultiplier3
+R5
+!i10b 1
+!s100 WX0mGM6Q?;gV<D8JVLE8R2
+R6
+IVPR6C6VfFASWU`@1VOJ030
+R7
+w1708625400
+8C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier3.v
+FC:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier3.v
+!i122 312
+L0 2 53
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier3.v|
+!s90 -reportprogress|300|-work|CA_LAB|-vopt|-stats=none|C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier3.v|
+!i113 0
+R11
+R3
+vmultiplier3__tb
+R5
+!i10b 1
+!s100 Zc7]nCZRDWaXV?`JffKVB2
+R6
+I9c=7=Kf`S=R]Q62@CBn2P0
+R7
+w1708465492
+8C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier3__tb.v
+FC:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier3__tb.v
+!i122 313
+R12
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier3__tb.v|
+!s90 -reportprogress|300|-work|CA_LAB|-vopt|-stats=none|C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier3__tb.v|
+!i113 0
+R11
+R3
+vmultiplier4
+Z13 !s110 1708631861
+!i10b 1
+!s100 nX4GgU6m[bGhV[T9m86BO0
+R6
+IDOE`[C6U_n>8HeDzgf@]S2
+R7
+w1708628544
+8C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier4.v
+FC:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier4.v
+!i122 248
+Z14 L0 2 70
+R8
+R9
+r1
+!s85 0
+31
+Z15 !s108 1708631861.000000
+!s107 C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier4.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier4.v|
+!i113 0
+Z16 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vmultiplier4__tb
+R13
+!i10b 1
+!s100 SafZ;KY]hf`@8hlPiKI@[1
+R6
+ImUl>PI[Md4X<YR]?3o[N_1
+R7
+w1708625366
+8C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier4__tb.v
+FC:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier4__tb.v
+!i122 249
+R12
+R8
+R9
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier4__tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier4__tb.v|
+!i113 0
+R16
+R3
+vmultiplier_b_nb
+R5
+!i10b 1
+!s100 MThD2SKE3cn@<@HkO=;8Y3
+R6
+ILgg]G=]ZkDIn<jgec[ma92
+R7
+w1708634416
+8C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier_b_nb.v
+FC:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier_b_nb.v
+!i122 318
+L0 2 86
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier_b_nb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier_b_nb.v|
+!i113 0
+R16
+R3
+vmultiplier_b_nb__tb
+R5
+!i10b 1
+!s100 1n5]MT:Pom1H_Q<BF6i^j3
+R6
+IPb<ImO=<>TD7=hj?cZ[ea2
+R7
+w1708634487
+8C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier_b_nb__tb.v
+FC:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier_b_nb__tb.v
+!i122 319
+Z17 L0 3 72
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier_b_nb__tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier_b_nb__tb.v|
+!i113 0
+R16
+R3
+vmultiplier_booth
+R5
+!i10b 1
+!s100 M<NGj>Tn3a_JnY`;_AlEH3
+R6
+IkWG`kS;4?P65@DRHYEGCm1
+R7
+w1708631987
+8C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier_booth.v
+FC:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier_booth.v
+!i122 316
+R14
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier_booth.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/1_Multiplier/Code/multiplier_booth.v|
+!i113 0
+R16
+R3
+vmultiplier_booth__tb
+R5
+!i10b 1
+!s100 X4:JLM9@6TkWMkoZAZ1XU3
+R6
+IIT^_RHmNzB_<<L19Dii@U

@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{}%
+\contentsline {subsection}{\numberline {1.1}Adder and Subtractor}{1}{}%
+\contentsline {subsection}{\numberline {1.2}Log of a signal}{2}{}%
+\contentsline {subsection}{\numberline {1.3}square and triangle wave generator}{2}{}%
+\contentsline {subsection}{\numberline {1.4}square and triangle wave generator}{3}{}%
+\contentsline {section}{\numberline {2}LM741 IC characterisitcs}{4}{}%
+\contentsline {section}{\numberline {3}Designing an amplifier circuit}{5}{}%
+\contentsline {subsection}{\numberline {3.1}analyze the different parts of this circuit}{5}{}%
+\contentsline {subsection}{\numberline {3.2}choosing theoritical values for the amplifier}{9}{}%
+\contentsline {subsection}{\numberline {3.3}Operating point simulation}{9}{}%
+\contentsline {subsection}{\numberline {3.4}AC analysis simulation}{10}{}%
+\contentsline {subsection}{\numberline {3.5}testing the circuit at 1kHz frequency}{14}{}%

@@ -1,0 +1,224 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU1_single_cycle_MIPS/ModelSim
+T_opt
+!s110 1715942626
+Vd=DHNRAziCVSz3Oe7QB[Y2
+04 29 4 work multi_cycle_mips__tb_advanced fast 0
+=1-f057a6ed4ea5-664734e2-11-3be8
+Z1 o-quiet -auto_acc_if_foreign -work ComputerArchitecture +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1715888202
+V05KBn[YX?fPACf79I6`OG1
+04 20 4 work multi_cycle_mips__tb fast 0
+=1-f057a6ed4ea5-66466049-3d7-39b4
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1715942678
+V;f2GFeHHV>KAQ?<dV96AQ1
+04 26 4 work multi_cycle_mips__tb_basic fast 0
+=1-f057a6ed4ea5-66473516-23a-550
+R1
+R2
+n@_opt2
+R3
+vasync_mem
+Z4 !s110 1715942586
+!i10b 1
+!s100 hdalL9CnfXEoCPllGD5810
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IU?jYF7?To]4;?MLm>;fR=3
+Z6 dC:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU2_multi_cycle_MIPS/ModelSim
+Z7 w1715774547
+Z8 8C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU2_multi_cycle_MIPS/LabMultiCycleMIPS/tb_isort/multi_cycle_mips__tb.v
+Z9 FC:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU2_multi_cycle_MIPS/LabMultiCycleMIPS/tb_isort/multi_cycle_mips__tb.v
+!i122 5
+L0 70 18
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+Z11 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z12 !s108 1715942586.000000
+Z13 !s107 C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU2_multi_cycle_MIPS/LabMultiCycleMIPS/tb_isort/multi_cycle_mips__tb.v|
+Z14 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU2_multi_cycle_MIPS/LabMultiCycleMIPS/tb_isort/multi_cycle_mips__tb.v|
+!i113 0
+Z15 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vmulti_cycle_mips
+R4
+!i10b 1
+!s100 ?8_Se0N?4YUhdBBcjk?1<0
+R5
+IdQU0UjaDRG0OhRPCTzfJi3
+R6
+Z16 w1715883360
+Z17 8C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU2_multi_cycle_MIPS/LabMultiCycleMIPS/multi_cycle_mips.v
+Z18 FC:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU2_multi_cycle_MIPS/LabMultiCycleMIPS/multi_cycle_mips.v
+!i122 2
+L0 45 447
+R10
+R11
+r1
+!s85 0
+31
+R12
+Z19 !s107 C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU2_multi_cycle_MIPS/LabMultiCycleMIPS/multi_cycle_mips.v|
+Z20 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU2_multi_cycle_MIPS/LabMultiCycleMIPS/multi_cycle_mips.v|
+!i113 0
+R15
+R2
+vmulti_cycle_mips__tb
+R4
+!i10b 1
+!s100 eiX]1A;chTK9M2Rda6g6:0
+R5
+IED8>>119HkJ61k:W_84811
+R6
+R7
+R8
+R9
+!i122 5
+L0 4 63
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R2
+vmulti_cycle_mips__tb_advanced
+R4
+!i10b 1
+!s100 H;mYbS<jAc3>U?<T870B63
+R5
+I[7F;X3Ya[1Tz;kAkBf3oE0
+R6
+R7
+8C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU2_multi_cycle_MIPS/LabMultiCycleMIPS/tb_advanced/multi_cycle_mips__tb_advanced.v
+FC:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU2_multi_cycle_MIPS/LabMultiCycleMIPS/tb_advanced/multi_cycle_mips__tb_advanced.v
+!i122 3
+L0 4 51
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU2_multi_cycle_MIPS/LabMultiCycleMIPS/tb_advanced/multi_cycle_mips__tb_advanced.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU2_multi_cycle_MIPS/LabMultiCycleMIPS/tb_advanced/multi_cycle_mips__tb_advanced.v|
+!i113 0
+R15
+R2
+vmulti_cycle_mips__tb_basic
+R4
+!i10b 1
+!s100 =b^[27C0ZV0DPKFP@]9]n1
+R5
+IXfFCMTYlf`9aIGjP=;HfB0
+R6
+w1715869027
+8C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU2_multi_cycle_MIPS/LabMultiCycleMIPS/tb_basic/multi_cycle_mips__tb_basic.v
+FC:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU2_multi_cycle_MIPS/LabMultiCycleMIPS/tb_basic/multi_cycle_mips__tb_basic.v
+!i122 4
+L0 4 54
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU2_multi_cycle_MIPS/LabMultiCycleMIPS/tb_basic/multi_cycle_mips__tb_basic.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU2_multi_cycle_MIPS/LabMultiCycleMIPS/tb_basic/multi_cycle_mips__tb_basic.v|
+!i113 0
+R15
+R2
+vmy_alu
+R4
+!i10b 1
+!s100 C?>URSg8_O?a_2YRm83RQ0
+R5
+IKHM4nK;f^D<b;j@PJQY]E0
+R6
+R16
+R17
+R18
+!i122 2
+L0 495 43
+R10
+R11
+r1
+!s85 0
+31
+R12
+R19
+R20
+!i113 0
+R15
+R2
+vmy_multiplier
+R4
+!i10b 1
+!s100 3SIPEe:XWGSOln]l1onlD0
+R5
+IJFg8zTSC:dAMaDkCEQn^=0
+R6
+R16
+R17
+R18
+!i122 2
+L0 568 49
+R10
+R11
+r1
+!s85 0
+31
+R12
+R19
+R20
+!i113 0
+R15
+R2
+vreg_file
+R4
+!i10b 1
+!s100 4>25ej>OM797ECOXY<C]<0
+R5
+IeSFgoCIbBlkHVQmSFP4[D3
+R6
+R16
+R17
+R18
+!i122 2
+L0 541 24
+R10
+R11
+r1
+!s85 0
+31
+R12
+R19
+R20
+!i113 0
+R15
+R2

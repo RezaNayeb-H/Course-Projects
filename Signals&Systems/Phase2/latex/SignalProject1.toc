@@ -1,0 +1,27 @@
+\contentsline {section}{\numberline {1}Electrodes naming}{1}{}%
+\contentsline {section}{\numberline {2}Frequency Bands of EEG}{1}{}%
+\contentsline {section}{\numberline {3}Sampling Frequency}{4}{}%
+\contentsline {section}{\numberline {4}Pre-processing}{4}{}%
+\contentsline {subsection}{\numberline {4.1}Locating Channels}{4}{}%
+\contentsline {subsection}{\numberline {4.2}High Pass filtering}{5}{}%
+\contentsline {subsection}{\numberline {4.3}Notch line filter}{5}{}%
+\contentsline {subsection}{\numberline {4.4}Artifact Removal(and re-referencing)}{6}{}%
+\contentsline {subsection}{\numberline {4.5}Independent Component Analysis(ICA)}{7}{}%
+\contentsline {subsection}{\numberline {4.6}Epoching data}{9}{}%
+\contentsline {subsection}{\numberline {4.7}Code}{9}{}%
+\contentsline {section}{\numberline {5}Deliverables}{9}{}%
+\contentsline {subsection}{\numberline {5.1}Processed Data}{14}{}%
+\contentsline {section}{\numberline {6}Phase2 Tasks}{16}{}%
+\contentsline {subsection}{\numberline {6.1}Loading Database}{16}{}%
+\contentsline {subsection}{\numberline {6.2}PSD calculation Example}{17}{}%
+\contentsline {subsection}{\numberline {6.3}Shannon Entropy calculation Example}{18}{}%
+\contentsline {subsection}{\numberline {6.4}Feature Extraction}{19}{}%
+\contentsline {subsection}{\numberline {6.5}SVM classifier implementation}{22}{}%
+\contentsline {subsection}{\numberline {6.6}KNN classifier implementation}{22}{}%
+\contentsline {subsection}{\numberline {6.7}Performance}{22}{}%
+\contentsline {section}{\numberline {7}Deliverables for Phase 2}{24}{}%
+\contentsline {subsection}{\numberline {7.1}PSD plots}{24}{}%
+\contentsline {subsection}{\numberline {7.2}Shannon Entropy Calculation}{27}{}%
+\contentsline {subsection}{\numberline {7.3}Classifier Performances}{27}{}%
+\contentsline {subsection}{\numberline {7.4}Selected Features}{27}{}%
+\contentsline {subsection}{\numberline {7.5}Cross-Validation Results}{28}{}%

@@ -1,0 +1,1 @@
+ $(MP_EXTRA_CC_PRE) -g -D__DEBUG -D__MPLAB_DEBUGGER_PK3=1  -fframe-base-loclist  -x c -c -mprocessor=$(MP_PROCESSOR_OPTION)  -fno-common   -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mdfp="${DFP_DIR}"  C:\Users\jck_5\Desktop\myFiles\Courses\Term4\Computer Architecture\Lab\7_PIC_LCD\PIC_Lab_LCD\LCD_Demo.X\mcc_generated_files\lcd.c

@@ -1,0 +1,39 @@
+Circuit: * C:\Users\jck_5\Desktop\myFiles\Courses\Term4\Electronics 2\Project\project2\SPICE\Design\Design.asc
+
+Direct Newton iteration for .op point succeeded.
+N-Period=1
+Fourier components of V(vout)
+DC component:-0.0265196
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	1.000e+03	8.350e-25	1.000e+00	   99.14°	    0.00°
+    2   	2.000e+03	3.281e-24	3.930e+00	  108.27°	    9.13°
+    3   	3.000e+03	7.167e-24	8.583e+00	  117.37°	   18.23°
+    4   	4.000e+03	1.221e-23	1.462e+01	  126.44°	   27.30°
+    5   	5.000e+03	1.804e-23	2.161e+01	  135.45°	   36.31°
+    6   	6.000e+03	2.421e-23	2.900e+01	  144.39°	   45.25°
+    7   	7.000e+03	3.022e-23	3.619e+01	  153.23°	   54.09°
+    8   	8.000e+03	3.553e-23	4.256e+01	  161.94°	   62.79°
+    9   	9.000e+03	3.963e-23	4.746e+01	  170.47°	   71.32°
+Total Harmonic Distortion: 8356.876323%(119285631391.608350%)
+
+
+
+Date: Sun Jun 30 23:00:08 2024
+Total elapsed time: 0.936 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 40044
+traniter = 40034
+tranpoints = 20018
+accept = 20018
+rejected = 0
+matrix size = 57
+fillins = 56
+solver = Normal
+Matrix Compiler1: 8.37 KB object code size  1.1/0.5/[0.3]
+Matrix Compiler2: 6.46 KB object code size  0.3/0.5/[0.3]
+

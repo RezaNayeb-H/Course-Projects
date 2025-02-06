@@ -1,0 +1,168 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_2020.4/examples
+T_opt
+!s110 1714078578
+V5HbSmeQIY3_JMgo]3jB^=2
+04 27 4 work single_cycle_mips__tb_isort fast 0
+=1-c0180385a163-662ac372-5-fc0
+Z1 o-quiet -auto_acc_if_foreign -work ComputerArchitecture +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1714078598
+VP1d6W1kOz^1g>;:FeOD=02
+04 27 4 work single_cycle_mips__tb_basic fast 0
+=1-c0180385a163-662ac386-12d-171c
+R1
+R2
+n@_opt1
+R3
+vasync_mem
+Z4 !s110 1714078566
+!i10b 1
+!s100 =8?>4UI@E>@][^hL8=V]j2
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I6QFm_9]HHQh<I>0Fzo:[H3
+Z6 dC:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU1_single_cycle_MIPS/ModelSim
+Z7 w1713945706
+Z8 8C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU1_single_cycle_MIPS/Single Cycle MIPS/building_blocks.v
+Z9 FC:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU1_single_cycle_MIPS/Single Cycle MIPS/building_blocks.v
+!i122 4
+L0 6 17
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+Z11 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z12 !s108 1714078566.000000
+Z13 !s107 C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU1_single_cycle_MIPS/Single Cycle MIPS/building_blocks.v|
+Z14 !s90 -reportprogress|300|-work|ComputerArchitecture|-vopt|-stats=none|C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU1_single_cycle_MIPS/Single Cycle MIPS/building_blocks.v|
+!i113 0
+Z15 o-work ComputerArchitecture -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vmy_alu
+R4
+!i10b 1
+!s100 Qan<Hf11HnSIGZj:BeW0i0
+R5
+I9hJSHg]^KW8cWQ9g5cA@60
+R6
+Z16 w1714078564
+Z17 8C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU1_single_cycle_MIPS/Single Cycle MIPS/single_cycle_mips.v
+Z18 FC:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU1_single_cycle_MIPS/Single Cycle MIPS/single_cycle_mips.v
+!i122 5
+L0 324 39
+R10
+R11
+r1
+!s85 0
+31
+R12
+Z19 !s107 C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU1_single_cycle_MIPS/Single Cycle MIPS/single_cycle_mips.v|
+Z20 !s90 -reportprogress|300|-work|ComputerArchitecture|-vopt|-stats=none|C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU1_single_cycle_MIPS/Single Cycle MIPS/single_cycle_mips.v|
+!i113 0
+R15
+R2
+vreg_file
+R4
+!i10b 1
+!s100 0C2l4mV3dl1VSD<3B]iWh3
+R5
+I?ezh?IXgT9SYgTbReV[;Z3
+R6
+R7
+R8
+R9
+!i122 4
+L0 30 29
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R2
+vsingle_cycle_mips
+R4
+!i10b 1
+!s100 DgNMJDijBR9H88UG1kCD02
+R5
+IQU5cLQXR3d`M4@gi<L9X22
+R6
+R16
+R17
+R18
+!i122 5
+L0 52 268
+R10
+R11
+r1
+!s85 0
+31
+R12
+R19
+R20
+!i113 0
+R15
+R2
+vsingle_cycle_mips__tb_basic
+Z21 !s110 1714078567
+!i10b 1
+!s100 ci55koEAl4MBCJXUdnKbg2
+R5
+IH4G?lH?NO^IiDGHU5dQJT3
+R6
+R7
+8C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU1_single_cycle_MIPS/Single Cycle MIPS/tb__basic/single_cycle_mips__tb_basic.v
+FC:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU1_single_cycle_MIPS/Single Cycle MIPS/tb__basic/single_cycle_mips__tb_basic.v
+!i122 7
+L0 3 37
+R10
+R11
+r1
+!s85 0
+31
+!s108 1714078567.000000
+!s107 C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU1_single_cycle_MIPS/Single Cycle MIPS/tb__basic/single_cycle_mips__tb_basic.v|
+!s90 -reportprogress|300|-work|ComputerArchitecture|-vopt|-stats=none|C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU1_single_cycle_MIPS/Single Cycle MIPS/tb__basic/single_cycle_mips__tb_basic.v|
+!i113 0
+R15
+R2
+vsingle_cycle_mips__tb_isort
+R21
+!i10b 1
+!s100 VjKh1fn9cI?GWR@hbL]iW1
+R5
+IHCAB?f0FfC`k?dgnkjOnA0
+R6
+R7
+8C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU1_single_cycle_MIPS/Single Cycle MIPS/tb__isort/single_cycle_mips__tb_isort.v
+FC:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU1_single_cycle_MIPS/Single Cycle MIPS/tb__isort/single_cycle_mips__tb_isort.v
+!i122 6
+L0 5 201
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU1_single_cycle_MIPS/Single Cycle MIPS/tb__isort/single_cycle_mips__tb_isort.v|
+!s90 -reportprogress|300|-work|ComputerArchitecture|-vopt|-stats=none|C:/Users/jck_5/Desktop/myFiles/Courses/Term4/Computer Architecture/Lab/CPU1_single_cycle_MIPS/Single Cycle MIPS/tb__isort/single_cycle_mips__tb_isort.v|
+!i113 0
+R15
+R2

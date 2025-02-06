@@ -1,0 +1,82 @@
+Circuit: * C:\Users\jck_5\Desktop\myFiles\Courses\Term4\Electronics 2\Project\project2\SPICE\BasicAnalysis\Basic.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.08884
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.03122
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 1.01823
+vernier = 0.00520833
+vernier = 0.00260417
+Gmin = 1.01162
+vernier = 0.00347222
+vernier = 0.00173611
+vernier = 0.00231481
+vernier = 0.00115741
+Gmin = 1.00877
+vernier = 0.00154321
+vernier = 0.000771604
+Gmin = 1.00673
+vernier = 0.00102881
+vernier = 0.000514403
+vernier = 0.00068587
+Gmin = 1.00553
+vernier = 0.000514403
+vernier = 0.00068587
+vernier = 0.000514402
+Gmin = 1.00475
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+N-Period=1
+Fourier components of V(vout)
+DC component:-0.310895
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	1.000e+03	8.302e-07	1.000e+00	  -11.44°	    0.00°
+    2   	2.000e+03	8.548e-07	1.030e+00	  -50.87°	  -39.43°
+    3   	3.000e+03	1.014e-06	1.222e+00	   49.17°	   60.61°
+    4   	4.000e+03	1.184e-06	1.426e+00	   10.25°	   21.70°
+    5   	5.000e+03	2.350e-05	2.831e+01	   -5.01°	    6.43°
+    6   	6.000e+03	1.366e-06	1.645e+00	  148.59°	  160.04°
+    7   	7.000e+03	2.190e-06	2.637e+00	  120.85°	  132.30°
+    8   	8.000e+03	2.411e-06	2.904e+00	  -64.26°	  -52.82°
+    9   	9.000e+03	1.733e-06	2.088e+00	  -85.31°	  -73.86°
+Total Harmonic Distortion: 2878.661043%(541180249.892231%)
+
+
+
+Date: Sun Jun 30 18:39:56 2024
+Total elapsed time: 0.516 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 50281
+traniter = 44388
+tranpoints = 20685
+accept = 20506
+rejected = 179
+matrix size = 18
+fillins = 15
+solver = Normal
+Matrix Compiler1: 1.36 KB object code size  0.4/0.2/[0.2]
+Matrix Compiler2: off  [0.2]/0.4/0.3
+

@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{}%
+\contentsline {section}{\numberline {2}Steps of Design and Implementation}{1}{}%
+\contentsline {section}{\numberline {3}Basic Analysis of the circuit}{1}{}%
+\contentsline {subsection}{\numberline {3.1}Finding the input and output stages}{1}{}%
+\contentsline {subsection}{\numberline {3.2}Explaining the operation of $I_B$ and Q6}{1}{}%
+\contentsline {subsection}{\numberline {3.3}Finding the operation point of the Transistors}{2}{}%
+\contentsline {subsection}{\numberline {3.4}Dead zone and its removal by feedback}{2}{}%
+\contentsline {subsection}{\numberline {3.5}finding ICMR and Swing}{3}{}%
+\contentsline {subsection}{\numberline {3.6}Swing Analysis}{3}{}%
+\contentsline {subsection}{\numberline {3.7}the circuit schematic in LTspcie}{4}{}%
+\contentsline {subsection}{\numberline {3.8}Voltages of the output and X node}{4}{}%
+\contentsline {subsection}{\numberline {3.9}Getting maximum achievable swing by changing operating points}{5}{}%
+\contentsline {subsection}{\numberline {3.10}Total Harmonic Distortion (THD)}{6}{}%
+\contentsline {section}{\numberline {4}Design}{7}{}%
+\contentsline {subsection}{\numberline {4.1}Folded Cascode Stage}{7}{}%
+\contentsline {subsection}{\numberline {4.2}}{9}{}%
+\contentsline {subsection}{\numberline {4.3}Image of the Designed circuit}{10}{}%
+\contentsline {subsection}{\numberline {4.4}}{10}{}%
