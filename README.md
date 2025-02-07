@@ -1,5 +1,5 @@
 # Bsc course projects of Reza Nayeb Habib
-Includes project courses of the following courses:
+Includes projects of the following courses:
 * Basic Programming (Marble Blast game)
 * Engineering Mathematics (MRI Image processing)
 * Electronics II (LM741 design and Power Amp Design)
